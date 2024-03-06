@@ -1,0 +1,15 @@
+D:\IT кариера\CoffeeShop\CoffeeShop\bin\Debug\net6.0\CoffeeShop.exe
+D:\IT кариера\CoffeeShop\CoffeeShop\bin\Debug\net6.0\CoffeeShop.deps.json
+D:\IT кариера\CoffeeShop\CoffeeShop\bin\Debug\net6.0\CoffeeShop.runtimeconfig.json
+D:\IT кариера\CoffeeShop\CoffeeShop\bin\Debug\net6.0\CoffeeShop.dll
+D:\IT кариера\CoffeeShop\CoffeeShop\bin\Debug\net6.0\CoffeeShop.pdb
+D:\IT кариера\CoffeeShop\CoffeeShop\obj\Debug\net6.0\CoffeeShop.csproj.AssemblyReference.cache
+D:\IT кариера\CoffeeShop\CoffeeShop\obj\Debug\net6.0\CoffeeShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT кариера\CoffeeShop\CoffeeShop\obj\Debug\net6.0\CoffeeShop.AssemblyInfoInputs.cache
+D:\IT кариера\CoffeeShop\CoffeeShop\obj\Debug\net6.0\CoffeeShop.AssemblyInfo.cs
+D:\IT кариера\CoffeeShop\CoffeeShop\obj\Debug\net6.0\CoffeeShop.csproj.CoreCompileInputs.cache
+D:\IT кариера\CoffeeShop\CoffeeShop\obj\Debug\net6.0\CoffeeShop.dll
+D:\IT кариера\CoffeeShop\CoffeeShop\obj\Debug\net6.0\refint\CoffeeShop.dll
+D:\IT кариера\CoffeeShop\CoffeeShop\obj\Debug\net6.0\CoffeeShop.pdb
+D:\IT кариера\CoffeeShop\CoffeeShop\obj\Debug\net6.0\CoffeeShop.genruntimeconfig.cache
+D:\IT кариера\CoffeeShop\CoffeeShop\obj\Debug\net6.0\ref\CoffeeShop.dll
