@@ -1,0 +1,97 @@
+INPUT 
+
+AddBook, TheMatrix, 8.6
+
+AddBook, Parasite, 8.5
+
+AddBook, GreenBook, 8.2
+
+PrintBookLibraryInfo
+
+END
+
+
+
+EXPECTED OUTPUT
+
+Added book: TheMatrix -> 8.6.
+
+Added book: Parasite -> 8.5.
+
+Added book: GreenBook -> 8.2.
+
+Book TheMatrix is with 8.6 rating.
+
+Book Parasite is with 8.5 rating.
+
+Book GreenBook is with 8.2 rating.
+
+
+
+INPUT 2
+
+AddBook, Passengers, 7.0
+
+AddBook, Star, 7.7
+
+AddBook, Troy, 7.2
+
+PrintBookLibraryInfo
+
+SortByTitle
+
+PrintBookLibraryInfo
+
+SortByRating
+
+PrintBookLibraryInfo
+
+CheckBook, Troy
+
+CheckBook, IT
+
+AverageRating
+
+GetBestBooksByRating, 7.1
+
+END
+
+
+
+EXPECTED OUTPUT
+
+Added book: Passengers -> 7.
+
+Added book: Star -> 7.7.
+
+Added book: Troy -> 7.2.
+
+Book Passengers is with 7.0 rating.
+
+Book Star is with 7.7 rating.
+
+Book Troy is with 7.2 rating.
+
+First book is: Passengers
+
+Book Passengers is with 7.0 rating.
+
+Book Star is with 7.7 rating.
+
+Book Troy is with 7.2 rating.
+
+The worst book is with rating: 7
+
+Book Star is with 7.7 rating.
+
+Book Troy is with 7.2 rating.
+
+Book Passengers is with 7.0 rating.
+
+Book Troy is available.
+
+Book IT is not available.
+
+Average rating of books: 7.3
+
+Most rated books are: Star, Troy
